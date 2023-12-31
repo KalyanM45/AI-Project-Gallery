@@ -27,7 +27,7 @@
 | 25 | Wine Quality Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Wine-Quality-Prediction) | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 
 
-### Many more projects will be uploaded soon!
+# Many more projects will be uploaded soon!
 
 | S No | Project Name | Specifications | Repository |
 | ---- | ------------ | --------------- | ---------- |
