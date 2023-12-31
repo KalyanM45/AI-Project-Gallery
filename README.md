@@ -30,4 +30,4 @@
 
 
 
-### Many More Uploading.............!
+### Many more projects will be uploaded soon!
