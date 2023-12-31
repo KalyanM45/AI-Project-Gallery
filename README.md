@@ -25,3 +25,9 @@
 | 23 | Article Scraper | Web Scraping | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Article-Web-Scraping) | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 24 | Doc-Genius | Gen AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/DocGenius-Revolutionizing-PDFs-with-AI) | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 25 | Image Scraper | Web Scraping | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/End-to-End-Image-Scraping) | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+
+
+
+
+
+### Many More Uploading.............!
