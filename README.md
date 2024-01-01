@@ -35,7 +35,7 @@
 | 01    | Deep Fake Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 02    | Arrhythmia Disease Detection | Classification | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 03    | Driver Drowsiness Detection | Computer Vision | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
-| 04    | Diet Recommendation | Clustering | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+| 04    | Diet Recommendation | Recommendation System | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 05    | Breast Cancer Detection | Classification | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 06    | Kidney Disease Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 07    | Text Summarisation | Natural Language Processing | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
