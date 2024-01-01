@@ -32,13 +32,13 @@
 
 | S No | Project Name | Specifications | Repository |
 | ---- | ------------ | --------------- | ---------- |
-| 01    | Deep Fake Detection | Deep Learning | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/yourusername/boston-house-prediction) |
-| 02    | Arrhythmia Disease Detection | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/yourusername/student-performance-prediction) |
-| 03    | Driver Drowsiness Detection | Computer Vision | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/yourusername/gold-price-prediction) |
-| 04    | Diet Recommendation | Clustering | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/yourusername/gold-price-prediction) |
-| 05    | Breast Cancer Detection | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/yourusername/student-performance-prediction) |
-| 06    | Kidney Disease Detection | Deep Learning | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/yourusername/boston-house-prediction) |
-| 07    | Text Summarisation | Natural Language Processing | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/yourusername/boston-house-prediction) |
-| 08    | Brain Tumor Detection | Deep Learning | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/yourusername/boston-house-prediction) |
-| 09    | Pneumonia Detection | Deep Learning | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/yourusername/boston-house-prediction) |
-| 10    | Realtime Face Detection | Deep Learning | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/yourusername/boston-house-prediction) |
+| 01    | Deep Fake Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+| 02    | Arrhythmia Disease Detection | Classification | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+| 03    | Driver Drowsiness Detection | Computer Vision | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+| 04    | Diet Recommendation | Clustering | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+| 05    | Breast Cancer Detection | Classification | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+| 06    | Kidney Disease Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+| 07    | Text Summarisation | Natural Language Processing | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+| 08    | Brain Tumor Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+| 09    | Pneumonia Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+| 10    | Realtime Face Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
