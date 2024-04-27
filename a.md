@@ -1,12 +1,7 @@
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://avatars.githubusercontent.com/u/101493756?s=400&u=193b07f4856478a9b7b0ef06ea6265d2ed78a0cd&v=4" alt="Profile Picture" style="width: 150px; margin-right: 20px;">
-  <div>
-    <strong>John Doe</strong><br>
-    <strong>Software Engineer</strong><br>
-    Dedicated software engineer passionate about creating efficient and scalable solutions.<br>
-    <strong>Contact Info:</strong><br>
-    - Email: john.doe@example.com<br>
-    - LinkedIn: <a href="https://www.linkedin.com/in/johndoe">John Doe</a><br>
-    - GitHub: <a href="https://github.com/johndoe">johndoe</a><br>
-  </div>
-</div>
+<img align="left" alt="GIF" src="https://avatars.githubusercontent.com/u/101493756?s=400&u=193b07f4856478a9b7b0ef06ea6265d2ed78a0cd&v=4?raw=true" width="300" height="300" />
+hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught frontend developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+  
