@@ -3,5 +3,6 @@ hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught fron
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
+<!--<p align="center"><img src="https://komarev.com/ghpvc/?username=KalyanM45&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanmurapaka45" /></p>-->
 
   
