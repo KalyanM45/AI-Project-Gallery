@@ -1,4 +1,4 @@
-| S No | Project Name | Specifications | Repository | End-to-End |
+| S No | Project Name | Domain | Repository | End-to-End |
 | ------------ | -------------- | ---------- | --------- | --------- |
 | 01 | Airbnb Price Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/End-to-End-Airbnb-Price-Prediction) | <p align="center">✔</p> |
 | 02 | Article Scraper | Web Scraping | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Article-Web-Scraping) | 
@@ -31,7 +31,7 @@
 
 # Many more projects will be uploaded soon!
 
-| S No | Project Name | Specifications | Repository |
+| S No | Project Name | Domain | Repository |
 | ---- | ------------ | --------------- | ---------- |
 | 01    | Deep Fake Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 02    | Arrhythmia Disease Detection | Classification | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
