@@ -27,6 +27,7 @@
 | 25 | Text Generation using Google Gemini | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Getting-Started-with-Gemini) | 
 | 26 | Virat Kohli Performance Data Analysis | MS Power BI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Virat-Kohli-Score-Analytics) | 
 | 27 | Wine Quality Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Wine-Quality-Prediction) | 
+| 28 | Market Insight | Agentic Workflows | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/MarketInsight) | 
 
 
 # Many more projects will be uploaded soon!
