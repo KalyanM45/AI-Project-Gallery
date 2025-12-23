@@ -29,7 +29,7 @@
 | 27 | Wine Quality Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Wine-Quality-Prediction) | 
 | 28 | Market Insight | Agentic Workflows | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/MarketInsight) | <p align="center">✔</p> |
 
- * For More End-to-End Projects: [<b>Follow me on GitHub</b>](https://github.com/KalyanM45/KalyanM45) 
+ * For More End-to-End Projects: [<b>Follow me on GitHub</b>](https://github.com/KalyanM45) 
 
 # Many more projects will be uploaded soon!
 
