@@ -7,7 +7,7 @@
 | 05 | Chatbot using OpenAI | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Chatbot-Using-Langchain) | 
 | 06 | Respire: Chest Disease Detection | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/End-to-End-Chest-Disease-Classification) | <p align="center">✔</p> |
 | 07 | Conversational Chatbot using OpenAI | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Conversational-Chatbot-using-Langchain) | 
-| 08 | Diamond Price Prediction | Regression | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Getting-Started-with-Gemini) | <p align="center">✔</p> |
+| 08 | Diamond Price Prediction | Regression | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/Diamond-Price-Prediction) | <p align="center">✔</p> |
 | 09 | Diabetes Disease Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Diabetes-Prediction-using-Machine-Learning) | 
 | 10 | Doc-Genius | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/DocGenius-Revolutionizing-PDFs-with-AI) | 
 | 11 | E-Commerce Data Analysis | MS Power BI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/E-Commerce-Data-Analysis) | 
