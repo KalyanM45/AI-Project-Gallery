@@ -22,7 +22,7 @@
 | 20 | Movie Recommendation System | Recommendation System | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/End-to-End-Movie-Recommendation-System) | <p align="center">✔</p> |
 | 21 | Password Strength Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Checking-Password-Strength-using-Machine-Learning) |
 | 22 | Rock vs Mine Detection | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Rock-and-Mine-Detection) |
-| 23 | Spam E-Mail Detection | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Spam-Email-Detection) |
+| 23 | Spam E-Mail Detection | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Spam-Email-Detection) | <p align="center">✔</p> |
 | 24 | Student Performance Prediction | Regression | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Student-Perfomance-Prediction) | <p align="center">✔</p> |
 | 25 | Text Generation using Google Gemini | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Getting-Started-with-Gemini) | 
 | 26 | Virat Kohli Performance Data Analysis | MS Power BI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Virat-Kohli-Score-Analytics) | 
