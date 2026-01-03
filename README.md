@@ -28,6 +28,7 @@
 | 26 | Virat Kohli Performance Data Analysis | MS Power BI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Virat-Kohli-Score-Analytics) | 
 | 27 | Wine Quality Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Wine-Quality-Prediction) | 
 | 28 | Market Insight | Agentic Workflows | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/MarketInsight) | <p align="center">✔</p> |
+| 29 | Synapse | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/Synapse-Daily) | |
 
  * For More End-to-End Projects: [<b>Follow me on GitHub</b>](https://github.com/KalyanM45) 
 
