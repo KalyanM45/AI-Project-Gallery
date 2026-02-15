@@ -1,3 +1,10 @@
+Disclaimer and Personal Statements of Tech Transfers from USA to PRC!
+
+U.S. EAR restricts AI exports (e.g., model weights >10^25 FLOP, ECCN 4E091) to PRC/Entity List.
+Check license needs: bis.doc.gov/ear. Report issues to compliance.
+
+Even if not controlled, I protest unauthorized sharing—protect U.S. security, in accordance with my rights to 1st Amendment.
+
 | S No | Project Name | Domain | Repository | End-to-End |
 | ------------ | -------------- | ---------- | --------- | --------- |
 | 01 | Airbnb Price Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/End-to-End-Airbnb-Price-Prediction) | <p align="center">✔</p> |
