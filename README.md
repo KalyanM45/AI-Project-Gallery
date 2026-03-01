@@ -30,6 +30,7 @@
 | 28 | Market Insight | Agentic Workflows | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/MarketInsight) | <p align="center">✔</p> |
 | 29 | Synapse | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/Synapse-Daily) | |
 | 30 | Doclify: Cli for Docs | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/Doclify) | <p align="center">✔</p> |
+| 31 | AI Blog Generation | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/BlogBoard-AI-Blog-Generator) | <p align="center">✔</p> |
 
  * For More End-to-End Projects: [<b>Follow me on GitHub</b>](https://github.com/KalyanM45) 
 
